@@ -260,7 +260,7 @@ Conocer las distintas funciones del osciloscopio, tanto analógico como digital.
 
 **4. VIDEO**
 
-
+https://youtu.be/a1blptTEYX4 
 
 **5. CONCLUSIONES**
 
