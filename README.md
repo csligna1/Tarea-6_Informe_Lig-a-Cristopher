@@ -159,39 +159,67 @@ Conocer las distintas funciones del osciloscopio, tanto analógico como digital.
 
 **1. (a) Encuentre la capacitancia cuando Q = 50 uC y V = 10 V. (b) Determine la carga cuando C 5 0.001 uF y V 5 1 kV. (c) Determine el voltaje cuando Q 5 2 mC y C 5 200 mF. **
 
+[![1.jpg](https://i.postimg.cc/rFc2JwzN/1.jpg)](https://postimg.cc/bd65Y8xZ)
+
 **3. Transforme los siguientes valores de picofarads a microfarads:**
 
 (a) 1000 pF (b) 3500 pF (c) 250 pF
 
+[![3.jpg](https://i.postimg.cc/zvFMMT3S/3.jpg)](https://postimg.cc/xNqtNJvc)
+
 **5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?**
+
+[![5.jpg](https://i.postimg.cc/g2T7fzc5/5.jpg)](https://postimg.cc/yD0nRzZX)
 
 **7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er .**
 
+[![7.jpg](https://i.postimg.cc/ZKqVZGQh/7.jpg)](https://postimg.cc/F12jVBmP)
+
 **9. Un capacitor de aire tiene un área de placas total de 0.05 m2 . La separación entre las placas es de 4.5 X10^-4 m. Calcule la capacitancia.**
+
+[![9.jpg](https://i.postimg.cc/kGgFJSfy/9.jpg)](https://postimg.cc/ZBXyjWk9)
 
 **11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er 5 2.5) de 8 3 1025 de espesor. ¿Cuál es la capacitancia de su capacitor?**
 
+[![11.jpg](https://i.postimg.cc/Gh9J6kBL/11.jpg)](https://postimg.cc/kB3bbRFz)
+
 **13. Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?**
+
+[![13.jpg](https://i.postimg.cc/FKbj0p6Z/13.jpg)](https://postimg.cc/bGJDhxpD)
 
 **SECCIÓN 12–2 TIPOS DE CAPACITORES**
 
 **15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?**
 
+[![15.jpg](https://i.postimg.cc/SRRCFhxT/15.jpg)](https://postimg.cc/QKLH1v51)
+
 **17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?**
 
+[![17.jpg](https://i.postimg.cc/HLtyrxJv/17.jpg)](https://postimg.cc/qtzRYpx2)
+
 **19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68**
+
+[![19.jpg](https://i.postimg.cc/Y95GVmT9/19.jpg)](https://postimg.cc/BLCnPtS9)
 
 **SECCIÓN 12–3 CAPACITORES EN SERIE**
 
 **21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.**
 
+[![21.jpg](https://i.postimg.cc/QMPH9T8b/21.jpg)](https://postimg.cc/WDG2xtJF)
+
 **23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?**
+
+[![23.jpg](https://i.postimg.cc/htZG6ddB/23.jpg)](https://postimg.cc/mPMRFhjX)
 
 **SECCIÓN 12–4 CAPACITORES EN PARALELO**
 
 **25. Determine la CT para cada circuito de la figura 12-71.**
 
+[![25.jpg](https://i.postimg.cc/tgL4CGkv/25.jpg)](https://postimg.cc/PLQj2cB1)
+
 **27. Determine la CT para cada circuito de la figura 12-72.**
+
+[![27.jpg](https://i.postimg.cc/vHQHmz7y/27.jpg)](https://postimg.cc/DmMKj1Yp)
 
 ***29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados. (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente? (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?**
 
