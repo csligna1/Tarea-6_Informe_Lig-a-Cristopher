@@ -14,15 +14,21 @@ Conocer las distintas funciones del osciloscopio, tanto analógico como digital.
 
 **2. MARCO TEÓRICO (RESUMEN)**
  
-
+https://www.canva.com/design/DAFXN8ZrTH0/-YvyC2iZfTmVKLKXfKo_Ng/view?utm_content=DAFXN8ZrTH0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 **RESUMEN CAPITULO - 11**
 
+[![1.png](https://i.postimg.cc/J7kns0Br/1.png)](https://postimg.cc/XXn3hV8m)
 
+[![2.png](https://i.postimg.cc/Gmq3Ws6Q/2.png)](https://postimg.cc/G4T1Y9L8)
+
+[![3.png](https://i.postimg.cc/v8fYQKpD/3.png)](https://postimg.cc/K4cSf0cy)
 
 **RESUMEN CAPITULO - 12**
 
+[![4.png](https://i.postimg.cc/wjTgQj3s/4.png)](https://postimg.cc/9rS6WVdW)
 
+[![5.png](https://i.postimg.cc/jdvr2Yvq/5.png)](https://postimg.cc/XpZP1hTt)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
