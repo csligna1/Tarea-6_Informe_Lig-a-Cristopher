@@ -227,42 +227,6 @@ https://www.canva.com/design/DAFXN8ZrTH0/-YvyC2iZfTmVKLKXfKo_Ng/view?utm_content
 
 [![27.jpg](https://i.postimg.cc/vHQHmz7y/27.jpg)](https://postimg.cc/DmMKj1Yp)
 
-***29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados. (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente? (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?**
-
-**SECCIÓN 12–5 CAPACITORES EN CIRCUITOS DE CD**
-
-**31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:**
-
-**33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?**
-
-**(a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms**
-
-**35. Repita el problema 33 con los siguientes tiempos:**
-
-**37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74? 38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 1**
-
-****
-
-**39. Determine la constante de tiempo para el circuito de la figura 12-77.**
-
-*** 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor**
-
-**43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.**
-
-**45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?**
-
-**47. Determine la potencia verdadera y la potencia reactiva en el problema 46.**
-
-**49. Determine el valor de C1 en la figura 12-82**
-
-**SECCIÓN 12–7 APLICACIONES DE LOS CAPACITORES**
-
-**51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?**
-
-**SECCIÓN 12–8 CIRCUITOS DE CAPACITOR CONMUTADO**
-
-**53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula**
-
 
 **4. VIDEO**
 
@@ -270,17 +234,18 @@ https://youtu.be/a1blptTEYX4
 
 **5. CONCLUSIONES**
 
-El simplificar circuitos eléctricos es escencial, e importante debido a que se pueden simplificar elementos, conociendo sus fórmulas, y distintas magnitudes de manera mas sencilla, y en estos capítulos resultó importante conocer los distintos métodos, para conocer de forma mas simplificada circuitos sin alterar sus resultados, y optimizando el tiempo.
+El simplificar circuitos eléctricos es escencial, e importante debido a que se pueden simplificar elementos, conociendo sus fórmulas, y distintas magnitudes de manera mas sencilla, y en estos capítulos resultó importante conocer los capacitores, para conocer de forma mas simplificada circuitos sin alterar sus resultados, y optimizando el tiempo.
 
 Para determinar una magnitud total, hay que tener en cuenta, que primero se deben hallar las demás magnitudes totales, ya que no se pueden trabajar con valores individuales, ya que esto produciría errores analíticos, y además es necesario conocer las fórmulas simplificadas y sus derivados, debido que en la práctica resultan muy importantes, pero en el caso de divisores de corriente o de voltaje hay que tener mas análisis y criterio.
 
 
 **6. BIBLIOGRAFÍA**
 
-Endesa. (02 de Septiembre de 2016). Recuperado el 20 de Diciembre de 2022, de https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/que-es-el-electromagnetismo#:~:text=El%20campo%20magn%C3%A9tico%20es%20la,del%20polo%20sur%20al%20norte.
+Art Pini. (17 de Septiembre de 2020). Obtenido de https://www.digikey.com/es/articles/fundamentals-understand-the-characteristics-of-capacitor-types
 
 
-McAllister, W. (30 de Octubre de 2019). El método de la corriente de malla. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+Quartux. (16 de Enero de 2023). Obtenido de https://www.quartux.com/blog/que-es-un-capacitor-o-condensador-electrico
+
 
 
 
